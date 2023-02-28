@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="wrapper">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/.mvn/wrapper" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-abilities/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-abilities/src/test/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-chat-session-bot/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-extensions/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-extensions/src/test/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-meta/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-meta/src/test/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-spring-boot-starter/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots-spring-boot-starter/src/test/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots/src/main/java" />
+      <root url="file://$USER_HOME$/TelegramBots-6.3.0/telegrambots/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
